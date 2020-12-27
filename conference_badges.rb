@@ -20,5 +20,5 @@ def printer(attendees)
     puts element
 
   end
+  binding.pry
 end
-binding.pry
