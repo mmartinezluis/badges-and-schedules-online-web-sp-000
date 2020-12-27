@@ -19,5 +19,4 @@ def printer(attendees)
   assign_rooms(attendees).each do |element|
     puts element
   end
-  binding.pry
 end
