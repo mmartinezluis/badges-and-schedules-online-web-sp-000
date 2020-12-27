@@ -6,7 +6,7 @@ end
 def batch_badge_creator(attendees)
 
   attendees.collect {|name| "Hello, my name is #{name}."}
-  binding.pry
+  
 end
 
 def assign_rooms(attendees)
